@@ -1,0 +1,10 @@
+# Virtual Environment
+venv/
+
+# Data and Logs
+data/
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
